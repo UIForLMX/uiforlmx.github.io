@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,M as l}from"./chunks/framework.3b97cefe.js";const m=JSON.parse('{"title":"项目管理业务组件","description":"","frontmatter":{},"headers":[],"relativePath":"index.md"}'),o={name:"index.md"},p=l("",19),t=[p];function e(c,r,i,D,y,F){return n(),a("div",null,t)}const h=s(o,[["render",e]]);export{m as __pageData,h as default};
