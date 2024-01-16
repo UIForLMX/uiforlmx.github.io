@@ -1,0 +1,1 @@
+import{H as o}from"./resource-load.d635a7b9.js";import"../app.c2288951.js";import"./framework.3b97cefe.js";import"./theme.e4c10142.js";o.install=function(t){return t.component(o.name,o),t};export{o as default};

@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,M as l}from"./chunks/framework.3b97cefe.js";const m=JSON.parse('{"title":"业务组件","description":"","frontmatter":{},"headers":[],"relativePath":"index.md"}'),t={name:"index.md"},o=l("",17),e=[o];function p(r,c,i,D,d,h){return n(),a("div",null,e)}const g=s(t,[["render",p]]);export{m as __pageData,g as default};
