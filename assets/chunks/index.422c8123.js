@@ -1,0 +1,1 @@
+import{B as t}from"./base-gantt.8aed563e.js";import{u as i}from"./base-gantt.8aed563e.js";import"../app.94690059.js";import"./framework.3b97cefe.js";import"./theme.e4c10142.js";t.install=function(o){return o.component(t.name,t),o};export{t as default,i as useBaseGantt};
